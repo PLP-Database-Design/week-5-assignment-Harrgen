@@ -1,0 +1,21 @@
+{
+  "name": "week-5-assignment-harrgen",
+  "version": "1.0.0",
+  "description": "This demonstrates the cconnection of MySQL database and Node.js to create a simple API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mysql2": "^2.2.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7"
+  }
+}
